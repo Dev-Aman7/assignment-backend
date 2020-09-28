@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: A Template for NodeJs API server
+description:
+    Spin up a nodejs server ready to be deployed in production within a minute
